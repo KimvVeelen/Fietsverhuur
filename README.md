@@ -34,8 +34,7 @@ informatie wordt een contract gemaakt waarop het totaalbedrag wordt getoond, geb
 berekening met de gegevens in de database.
 <br>
 <br>
-<img src="ERD.jpg">
 <h2>ERD</h2>
 <br>
 <br>
-
+<img src="ERD.jpg" width="500">
